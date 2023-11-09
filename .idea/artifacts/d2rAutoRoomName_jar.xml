@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="d2rAutoRoomName:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/d2rAutoRoomName_jar</output-path>
+    <root id="archive" name="d2rAutoRoomName.jar">
+      <element id="module-output" name="d2rAutoRoomName" />
+    </root>
+  </artifact>
+</component>
